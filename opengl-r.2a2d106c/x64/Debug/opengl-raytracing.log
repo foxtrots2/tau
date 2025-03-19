@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\foxtrots2\Desktop\tau-renderer\src\main.cpp(76,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\foxtrots2\Desktop\tau-renderer\src\main.cpp(76,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\foxtrots2\Desktop\tau-renderer\src\main.cpp(79,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\foxtrots2\Desktop\tau-renderer\src\main.cpp(79,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+model_loader.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  opengl-raytracing.vcxproj -> C:\Users\foxtrots2\Desktop\tau-renderer\x64\Debug\opengl-raytracing.exe
